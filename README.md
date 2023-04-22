@@ -13,8 +13,8 @@ To set up the bot, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Update the `guu` variable in the `bot.py` file with your own Telegram API credentials and OpenAI API key.
-4. Run the bot by running the `bot.py` file using `python bot.py`.
+3. Update the `chatgpt` variable in the `sakura.py` file with your own Telegram API credentials and OpenAI API key.
+4. Run the bot by running the `sakura.py` file using `python sakura.py`.
 
 ## Contributing
 
