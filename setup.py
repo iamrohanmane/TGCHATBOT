@@ -1,4 +1,4 @@
-class guu:
+class chatgpt:
   openai_api_key ='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'
   bot_token = '5472412621:AAHBIxCgcRcJlKCRcJhtWs0hKw7z9-aV-pA'
   api_hash = '48849f4f7d54c7cebfbb563a08d8ff60'
