@@ -1,4 +1,4 @@
-class chatgpt:
+class keys:
   openai_api_key =''
   bot_token = ''
   api_hash = ''
